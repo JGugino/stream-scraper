@@ -1,0 +1,5 @@
+Needed:
+- Fetch all shows from every genre
+- Save all normalized shows/movies to .json files
+- Ability to setup automated fetching and saving of shows/movies
+- Upload new list to server
